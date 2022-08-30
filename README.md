@@ -11,6 +11,7 @@ Dynamic Graphical Neural Network Visualizer
 3. [Documentation](#Documentation)
 4. [Frequently Asked Questions](#Frequently-Asked-Questions)
 5. [Contributions](#Contributions)
+6. [License](#License)
 
 ## <a name="Installation"></a>Installation
 
@@ -25,3 +26,6 @@ Dynamic Graphical Neural Network Visualizer
 
 ## <a name="Contributions"></a>Contributions
 This project is currently in the 'Concept' phase and no contributions are needed as of yet. Please refer to this article about [The six phases of the Agile life cycle](https://www.wrike.com/agile-guide/agile-development-life-cycle/)
+
+## <a name="License"></a>License
+[MIT](https://github.com/dotslashbrain/DGNNV/blob/main/LICENSE)
