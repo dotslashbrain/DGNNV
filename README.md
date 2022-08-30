@@ -1,17 +1,22 @@
 # DGNNV
 Dynamic Graphical Neural Network Visualizer
 
-## Goals for this project:
-- Create a neural network using C
-- Create a dynamic/realtime visualizer GUI for all functions of creating, training, and using the C Neural Network using Electron
-
 ## Tables of contents
-1. [Installation](#Installation)
-2. [Usage](#Usage)
-3. [Documentation](#Documentation)
-4. [Frequently Asked Questions](#Frequently-Asked-Questions)
-5. [Contributions](#Contributions)
-6. [License](#License)
+1. [Description](#Description)
+2. [Goals](#Goals)
+3. [Installation](#Installation)
+4. [Usage](#Usage)
+5. [Documentation](#Documentation)
+6. [Frequently Asked Questions](#Frequently-Asked-Questions)
+7. [Contributions](#Contributions)
+8. [License](#License)
+
+## <a name="Description"></a>Description
+An Electron application for visualizing the creation, training, and usage of a neural network.
+
+## <a name="Goals"></a>Goals
+- Create a neural network using C
+- Create a dynamic/realtime visualizer GUI using Electron for all functions of creating, training, and using the C Neural Network.
 
 ## <a name="Installation"></a>Installation
 
