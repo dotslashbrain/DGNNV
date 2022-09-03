@@ -6,7 +6,9 @@ Dynamic Graphical Neural Network Visualizer
   - [ ] Sub-task or description 
   
 ### High-Priority
- 
+
+- [ ] Setup CHANGELOG.md ~30m #Feature #High-Priority @dotslashbrain 2022-09-03
+- [ ] Setup REFERENCES.md ~20m #Feature #High-Priority @dotslashbrain 2022-09-03
 - [ ] Setup the node.js environment to host the web app ~30m #Feature #High-Priority @dotslashbrain 2022-09-03
 	- https://www.computerhope.com/issues/ch002070.htm
 - [ ] Setup Basic node.js addon scaffolding for the C/C++ Neural Network API calls ~3h #Feature #High-Priority @dotslashbrain 2022-09-03
@@ -23,6 +25,9 @@ Dynamic Graphical Neural Network Visualizer
 
 ### Medium-Priority
 
+- [ ] Setup CODE_OF_CONDUCT.md ~2h #Feature #medium-Priority @dotslashbrain 2022-09-03
+	- Example: https://github.com/olivierlacan/keep-a-changelog/blob/main/CODE_OF_CONDUCT.md
+	
 ### Low-Priority
 - [ ] Add appropriate Github badges ~2h #Feature #Low-Priority @dotslashbrain 2022-09-03
 	- Create npmjs package for project to link badge to
