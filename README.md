@@ -10,7 +10,7 @@ Dynamic Graphical Neural Network Visualizer
 6. [Frequently Asked Questions](#Frequently-Asked-Questions)
 7. [Contributions](#Contributions)
 8. [License](#License)
-9. [Bibliography](#Bibliography)
+9. [References](#References)
 
 ## <a name="Description"></a>Description
 A web app built with Node.js and Express for visualizing the creation, training, and usage of a neural network developed in the C/C++ language.
@@ -36,10 +36,11 @@ This project is currently in the 'Concept' phase and no contributions are needed
 ## <a name="License"></a>License
 [MIT](https://github.com/dotslashbrain/DGNNV/blob/main/LICENSE)
 
-## <a name="Bibliography"></a>Bibliography
+## <a name="References"></a>References
 - [How to create a website using Node.js and Express](https://www.computerhope.com/issues/ch002070.htm)
  - [A simple guide to load C/C++ code into Node.js JavaScript Applications](https://medium.com/jspoint/a-simple-guide-to-load-c-c-code-into-node-js-javascript-applications-3fcccf54fd32)
  - [Why do we need C++ Addons in Node.js ?](https://www.geeksforgeeks.org/why-do-we-need-c-addons-in-node-js/)
+ - [How to call C/C++ code from Node.js](https://koistya.medium.com/how-to-call-c-c-code-from-node-js-86a773033892)
  - [TODO.md](https://github.com/todomd/todo.md)
  - [Kanban Board](https://en.wikipedia.org/wiki/Kanban_board)
  - [Severity & Priority in Testing – What’s the Difference?](https://www.tutorialspoint.com/severity-and-priority-in-testing-what-s-the-difference#:~:text=Priority%20refers%20to%20the%20order,critical%2C%20moderate%2C%20and%20severe.)
