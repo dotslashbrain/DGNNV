@@ -10,13 +10,14 @@ Dynamic Graphical Neural Network Visualizer
 6. [Frequently Asked Questions](#Frequently-Asked-Questions)
 7. [Contributions](#Contributions)
 8. [License](#License)
+9. [Bibliography](#Bibliography)
 
 ## <a name="Description"></a>Description
-An Electron application for visualizing the creation, training, and usage of a neural network.
+A web app built with Node.js and Express for visualizing the creation, training, and usage of a neural network developed in the C/C++ language.
 
 ## <a name="Goals"></a>Goals
-- Create a neural network using C
-- Create a dynamic/realtime visualizer GUI using Electron for all functions of creating, training, and using the C Neural Network.
+- Create a neural network using C/C++
+- Create a dynamic/real-time visualizer GUI using Electron for all functions of creating, training, and using the C/C++ Neural Network.
 
 ## <a name="Installation"></a>Installation
 
@@ -27,10 +28,14 @@ An Electron application for visualizing the creation, training, and usage of a n
 
 ## <a name="Frequently-Asked-Questions"></a>Frequently Asked Questions
 - What is this used for?
-  This is a tool used for learning neural networks by visualizing the inner workings of creating, training, and using a neural network.
+  This tool is used to learn neural networks by visualizing the inner workings of creating, training, and using a neural network.
 
 ## <a name="Contributions"></a>Contributions
 This project is currently in the 'Concept' phase and no contributions are needed as of yet. Please refer to this article about [The six phases of the Agile life cycle](https://www.wrike.com/agile-guide/agile-development-life-cycle/)
 
 ## <a name="License"></a>License
 [MIT](https://github.com/dotslashbrain/DGNNV/blob/main/LICENSE)
+
+## <a name="Bibliography"></a>Bibliography
+[How to create a website using Node.js and Express](https://www.computerhope.com/issues/ch002070.htm)
+[A simple guide to load C/C++ code into Node.js JavaScript Applications](https://medium.com/jspoint/a-simple-guide-to-load-c-c-code-into-node-js-javascript-applications-3fcccf54fd32)
