@@ -1,14 +1,17 @@
 # DGNNV
 Dynamic Graphical Neural Network Visualizer
 
-### To-Do
+## To-Do
 - [ ] Task title ~3d 2h {estimated time} #[Feature, Bug, High-Priority, Medium-Priority, Low-Priority] {Tag(s)} @name {assigned to} yyyy-mm-dd {date created} yyyy-mm-dd {date finished (for change log)}
   - [ ] Sub-task or description 
   
-#### High-Priority
+### High-Priority
  
 - [ ] Setup the node.js environment to host the web app ~30m #Feature #High-Priority @dotslashbrain 2022-09-03
+	- https://www.computerhope.com/issues/ch002070.htm
 - [ ] Setup Basic node.js addon scaffolding for the C/C++ Neural Network API calls ~3h #Feature #High-Priority @dotslashbrain 2022-09-03
+	- https://koistya.medium.com/how-to-call-c-c-code-from-node-js-86a773033892
+	- https://www.geeksforgeeks.org/why-do-we-need-c-addons-in-node-js/
 - [ ] Create C/C++ Neural Network code  ~8h #Feature #High-Priority @dotslashbrain 2022-09-03
 - [ ] Unit Test C/C++ Neural Network code ~2d #Feature #High-Priority @dotslashbrain 2022-09-03
 - [ ] Create C/C++ Neural Network API calls for the Node.js app ~4h #Feature #High-Priority @dotslashbrain 2022-09-03
@@ -17,9 +20,10 @@ Dynamic Graphical Neural Network Visualizer
 - [ ] Hook up the GUI with the API Calls ~8h #Feature #High-Priority @dotslashbrain 2022-09-03
 - [ ] Unit Test API Calls ~2d #Feature #High-Priority @dotslashbrain 2022-09-03
 
-#### Medium-Priority
 
-#### Low-Priority
+### Medium-Priority
+
+### Low-Priority
 - [ ] Add appropriate Github badges ~2h #Feature #Low-Priority @dotslashbrain 2022-09-03
 	- Create npmjs package for project to link badge to
 - [ ] Create Twitter account ~30m #Feature #Low-Priority @dotslashbrain 2022-09-03
@@ -29,21 +33,22 @@ Dynamic Graphical Neural Network Visualizer
 	- https://github.com/RelaxedJS/ReLaXed#contribute
 - [ ] Create Reddit Sub for project ~1h #Feature #Low-Priority @dotslashbrain 2022-09-03
 - [ ] Create A discord for project ~1h #Feature #Low-Priority @dotslashbrain 2022-09-03
-### Doing
 
-#### High-Priority
+## Doing
 
-#### Medium-Priority
+### High-Priority
 
-#### Low-Priority
+### Medium-Priority
 
-### Done ✓
-- [x] Completed task title  
+### Low-Priority
+
+## Done ✓ 
 - ✓ Completed task title 
 
-#### High-Priority
-- [x] Add complete header set to README.md ~2h #Feature #High-Priority @dotslashbrain 2022-08-30
+### High-Priority
+- ✓ Add complete header set to README.md ~2h #Feature #High-Priority @dotslashbrain 2022-08-30 2022-08-31
+- ✓ Setup TODO.md ~2h #Feature #High-Priority @dotslashbrain 2022-09-03 2022-09-03
 
-#### Medium-Priority
+### Medium-Priority
 
-#### Low-Priority
+### Low-Priority
