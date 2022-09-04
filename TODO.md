@@ -6,12 +6,12 @@ Dynamic Graphical Neural Network Visualizer
   - [ ] Sub-task or description 
   
 ### High-Priority
-- [ ] Add all links in todo to REFERENCE.md
-- [ ] Setup RULES.md
+- [ ] Add all links in TODO.md to REFERENCE.md
+- [ ] Setup RULES.md ~10m #Feature #High-Priority @dotslashbrain 2022-09-03
 	- https://github.com/standard/standard/blob/master/RULES.md
-- [ ] Setup AUTHORS.md
+- [ ] Setup AUTHORS.md ~10m #Feature #High-Priority @dotslashbrain 2022-09-03
 	- https://github.com/standard/standard/blob/master/AUTHORS.md
-- [ ] Setup CONTRIBUTING.md
+- [ ] Setup CONTRIBUTING.md ~10m #Feature #High-Priority @dotslashbrain 2022-09-03
 	- https://github.com/burodepeper/language-markdown/blob/master/CONTRIBUTING.md
 - [ ] Setup FAQ.md ~10m #Feature #High-Priority @dotslashbrain 2022-09-03
 	- https://github.com/burodepeper/language-markdown/blob/master/FAQ.md#syntax-highlighting-is-broken-after-uninstall
