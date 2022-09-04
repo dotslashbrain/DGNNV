@@ -6,8 +6,19 @@ Dynamic Graphical Neural Network Visualizer
   - [ ] Sub-task or description 
   
 ### High-Priority
-
+- [ ] Add all links in todo to REFERENCE.md
+- [ ] Setup RULES.md
+	- https://github.com/standard/standard/blob/master/RULES.md
+- [ ] Setup AUTHORS.md
+	- https://github.com/standard/standard/blob/master/AUTHORS.md
+- [ ] Setup CONTRIBUTING.md
+	- https://github.com/burodepeper/language-markdown/blob/master/CONTRIBUTING.md
+- [ ] Setup FAQ.md ~10m #Feature #High-Priority @dotslashbrain 2022-09-03
+	- https://github.com/burodepeper/language-markdown/blob/master/FAQ.md#syntax-highlighting-is-broken-after-uninstall
+	- https://github.com/gulpjs/gulp/blob/master/docs/FAQ.md
 - [ ] Setup CHANGELOG.md ~30m #Feature #High-Priority @dotslashbrain 2022-09-03
+	- https://github.com/standard/standard/blob/master/CHANGELOG.md
+	- https://keepachangelog.com/en/1.0.0/
 - [ ] Setup REFERENCES.md ~20m #Feature #High-Priority @dotslashbrain 2022-09-03
 - [ ] Setup the node.js environment to host the web app ~30m #Feature #High-Priority @dotslashbrain 2022-09-03
 	- https://www.computerhope.com/issues/ch002070.htm
