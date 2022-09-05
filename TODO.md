@@ -2,7 +2,7 @@
 Dynamic Graphical Neural Network Visualizer
 
 ## To-Do
-- [ ] Task title ~3d 2h {estimated time} #[Feature, Bug, High-Priority, Medium-Priority, Low-Priority] {Tag(s)} @name {assigned to} yyyy-mm-dd {date created} yyyy-mm-dd {date finished (for change log)}
+- [ ] Task title ~3d 2h {estimated time} #[Feature, [Critical, Major, Moderate, Minor, Cosmetic]-Bug, [High, Medium, Low]-Priority] {Tag(s)} @name {assigned to} yyyy-mm-dd {date created} yyyy-mm-dd {date finished (for change log)}
   - [ ] Sub-task or description 
   
 ### High-Priority
