@@ -31,10 +31,10 @@ A web app built with Node.js and Express for visualizing the creation, training,
   This tool is used to learn neural networks by visualizing the inner workings of creating, training, and using a neural network.
 
 ## <a name="Contributions"></a>Contributions
-This project is currently in the 'Concept' phase and no contributions are needed as of yet. Please refer to this article about [The six phases of the Agile life cycle](https://www.wrike.com/agile-guide/agile-development-life-cycle/)
+To help contribute to this project please see the [Contirbutions](/CONTRIBUTIONS.md) file.
 
 ## <a name="License"></a>License
-[MIT](https://github.com/dotslashbrain/DGNNV/blob/main/LICENSE)
+[MIT](/LICENSE)
 
 ## <a name="References"></a>References
 - [How to create a website using Node.js and Express](https://www.computerhope.com/issues/ch002070.htm)
