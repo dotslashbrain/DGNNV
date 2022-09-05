@@ -1,0 +1,1 @@
+This project is currently in the 'Concept' phase and no contributions are needed as of yet. Please refer to this article about [The six phases of the Agile life cycle](https://www.wrike.com/agile-guide/agile-development-life-cycle/)
