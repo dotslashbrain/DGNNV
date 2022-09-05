@@ -4,9 +4,12 @@ Dynamic Graphical Neural Network Visualizer
 ## To-Do
 - [ ] Task title ~3d 2h {estimated time} #[Feature, Bug, High-Priority, Medium-Priority, Low-Priority] {Tag(s)} @name {assigned to} yyyy-mm-dd {date created} yyyy-mm-dd {date finished (for change log)}
   - [ ] Sub-task or description 
-  
-### High-Priority
+
+### On Going
 - [ ] Add all links in TODO.md to REFERENCE.md
+
+### High-Priority
+
 - [ ] Setup RULES.md ~10m #Feature #High-Priority @dotslashbrain 2022-09-03
 	- https://github.com/standard/standard/blob/master/RULES.md
 - [ ] Setup AUTHORS.md ~10m #Feature #High-Priority @dotslashbrain 2022-09-03
@@ -40,6 +43,8 @@ Dynamic Graphical Neural Network Visualizer
 	- Example: https://github.com/olivierlacan/keep-a-changelog/blob/main/CODE_OF_CONDUCT.md
 	
 ### Low-Priority
+- [ ] Look into the automate project sections 
+	- https://docs.github.com/en/issues/planning-and-tracking-with-projects/automating-your-project
 - [ ] Add appropriate Github badges ~2h #Feature #Low-Priority @dotslashbrain 2022-09-03
 	- Create npmjs package for project to link badge to
 - [ ] Create Twitter account ~30m #Feature #Low-Priority @dotslashbrain 2022-09-03

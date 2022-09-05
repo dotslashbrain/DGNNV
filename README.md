@@ -17,7 +17,7 @@ A web app built with Node.js and Express for visualizing the creation, training,
 
 ## <a name="Goals"></a>Goals
 - Create a neural network using C/C++
-- Create a dynamic/real-time visualizer GUI using Electron for all functions of creating, training, and using the C/C++ Neural Network.
+- Create a web app GUI using Node.js and Express.js of a dynamic/real-time visualizer for all functions of creating, training, and using the C/C++ Neural Network.
 
 ## <a name="Installation"></a>Installation
 
