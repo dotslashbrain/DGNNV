@@ -1,0 +1,8 @@
+- [How to create a website using Node.js and Express](https://www.computerhope.com/issues/ch002070.htm)
+- [A simple guide to load C/C++ code into Node.js JavaScript Applications](https://medium.com/jspoint/a-simple-guide-to-load-c-c-code-into-node-js-javascript-applications-3fcccf54fd32)
+- [Why do we need C++ Addons in Node.js ?](https://www.geeksforgeeks.org/why-do-we-need-c-addons-in-node-js/)
+- [How to call C/C++ code from Node.js](https://koistya.medium.com/how-to-call-c-c-code-from-node-js-86a773033892)
+- [TODO.md](https://github.com/todomd/todo.md)
+- [Kanban Board](https://en.wikipedia.org/wiki/Kanban_board)
+- [Severity & Priority in Testing – What’s the Difference?](https://www.tutorialspoint.com/severity-and-priority-in-testing-what-s-the-difference#:~:text=Priority%20refers%20to%20the%20order,critical%2C%20moderate%2C%20and%20severe.)
+- [keep a changelog](https://keepachangelog.com/en/1.0.0/)

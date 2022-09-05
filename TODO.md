@@ -4,10 +4,24 @@ Dynamic Graphical Neural Network Visualizer
 ## To-Do
 - [ ] Task title ~3d 2h {estimated time} #[Feature, [Critical, Major, Moderate, Minor, Cosmetic]-Bug, [High, Medium, Low]-Priority] {Tag(s)} @name {assigned to} yyyy-mm-dd {date created} yyyy-mm-dd {date finished (for change log)}
   - [ ] Sub-task or description 
-  
+
+### On Going
+- [ ] Add all links in TODO.md to REFERENCE.md
+
 ### High-Priority
 
+- [ ] Setup RULES.md ~10m #Feature #High-Priority @dotslashbrain 2022-09-03
+	- https://github.com/standard/standard/blob/master/RULES.md
+- [ ] Setup AUTHORS.md ~10m #Feature #High-Priority @dotslashbrain 2022-09-03
+	- https://github.com/standard/standard/blob/master/AUTHORS.md
+- [ ] Setup CONTRIBUTING.md ~10m #Feature #High-Priority @dotslashbrain 2022-09-03
+	- https://github.com/burodepeper/language-markdown/blob/master/CONTRIBUTING.md
+- [ ] Setup FAQ.md ~10m #Feature #High-Priority @dotslashbrain 2022-09-03
+	- https://github.com/burodepeper/language-markdown/blob/master/FAQ.md#syntax-highlighting-is-broken-after-uninstall
+	- https://github.com/gulpjs/gulp/blob/master/docs/FAQ.md
 - [ ] Setup CHANGELOG.md ~30m #Feature #High-Priority @dotslashbrain 2022-09-03
+	- https://github.com/standard/standard/blob/master/CHANGELOG.md
+	- https://keepachangelog.com/en/1.0.0/
 - [ ] Setup REFERENCES.md ~20m #Feature #High-Priority @dotslashbrain 2022-09-03
 - [ ] Setup the node.js environment to host the web app ~30m #Feature #High-Priority @dotslashbrain 2022-09-03
 	- https://www.computerhope.com/issues/ch002070.htm
@@ -29,6 +43,8 @@ Dynamic Graphical Neural Network Visualizer
 	- Example: https://github.com/olivierlacan/keep-a-changelog/blob/main/CODE_OF_CONDUCT.md
 	
 ### Low-Priority
+- [ ] Look into the automate project sections 
+	- https://docs.github.com/en/issues/planning-and-tracking-with-projects/automating-your-project
 - [ ] Add appropriate Github badges ~2h #Feature #Low-Priority @dotslashbrain 2022-09-03
 	- Create npmjs package for project to link badge to
 - [ ] Create Twitter account ~30m #Feature #Low-Priority @dotslashbrain 2022-09-03
