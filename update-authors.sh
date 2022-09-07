@@ -1,5 +1,7 @@
 #!/bin/sh
 
+#Code from : https://github.com/webtorrent/instant.io/blob/master/tools/update-authors.sh
+
 # Update AUTHORS.md based on git history.
 
 git log --reverse --format='%aN <%aE>' | perl -we '
