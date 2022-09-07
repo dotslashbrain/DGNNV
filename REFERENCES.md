@@ -8,3 +8,4 @@
 - [keep a changelog](https://keepachangelog.com/en/1.0.0/)
 - [AUTHORS](https://github.com/standard/standard/blob/master/AUTHORS.md)
 - [CONTRIBUTING](https://github.com/burodepeper/language-markdown/blob/master/CONTRIBUTING.md)
+- [FAQ](https://github.com/gulpjs/gulp/blob/master/docs/FAQ.md)
