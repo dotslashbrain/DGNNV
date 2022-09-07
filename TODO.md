@@ -10,13 +10,9 @@ Dynamic Graphical Neural Network Visualizer
 
 ### High-Priority
 
-- [ ] Setup FAQ.md ~10m #Feature #High-Priority @dotslashbrain 2022-09-03
-	- https://github.com/burodepeper/language-markdown/blob/master/FAQ.md#syntax-highlighting-is-broken-after-uninstall
-	- https://github.com/gulpjs/gulp/blob/master/docs/FAQ.md
 - [ ] Setup CHANGELOG.md ~30m #Feature #High-Priority @dotslashbrain 2022-09-03
 	- https://github.com/standard/standard/blob/master/CHANGELOG.md
 	- https://keepachangelog.com/en/1.0.0/
-- [ ] Setup REFERENCES.md ~20m #Feature #High-Priority @dotslashbrain 2022-09-03
 - [ ] Setup the node.js environment to host the web app ~30m #Feature #High-Priority @dotslashbrain 2022-09-03
 	- https://www.computerhope.com/issues/ch002070.htm
 - [ ] Setup Basic node.js addon scaffolding for the C/C++ Neural Network API calls ~3h #Feature #High-Priority @dotslashbrain 2022-09-03
@@ -64,7 +60,9 @@ Dynamic Graphical Neural Network Visualizer
 - ✓ Add complete header set to README.md ~2h #Feature #High-Priority @dotslashbrain 2022-08-30 2022-08-31
 - ✓ Setup TODO.md ~2h #Feature #High-Priority @dotslashbrain 2022-09-03 2022-09-03 2022-09-03
 - ✓ Setup AUTHORS.md ~10m #Feature #High-Priority @dotslashbrain 2022-09-03 2022-09-07
-- ✓ Setup CONTRIBUTING.md ~10m #Feature #High-Priority @dotslashbrain 2022-09-03
+- ✓ Setup CONTRIBUTING.md ~10m #Feature #High-Priority @dotslashbrain 2022-09-03 2022-09-07
+- ✓ Setup FAQ.md ~10m #Feature #High-Priority @dotslashbrain 2022-09-03 2022-09-07
+- ✓ Setup REFERENCES.md ~20m #Feature #High-Priority @dotslashbrain 2022-09-03 2022-09-07
 
 ### Medium-Priority
 
