@@ -10,9 +10,7 @@ Dynamic Graphical Neural Network Visualizer
 
 ### High-Priority
 
-- [ ] Setup CHANGELOG.md ~30m #Feature #High-Priority @dotslashbrain 2022-09-03
-	- https://github.com/standard/standard/blob/master/CHANGELOG.md
-	- https://keepachangelog.com/en/1.0.0/
+
 - [ ] Setup the node.js environment to host the web app ~30m #Feature #High-Priority @dotslashbrain 2022-09-03
 	- https://www.computerhope.com/issues/ch002070.htm
 - [ ] Setup Basic node.js addon scaffolding for the C/C++ Neural Network API calls ~3h #Feature #High-Priority @dotslashbrain 2022-09-03
@@ -63,6 +61,7 @@ Dynamic Graphical Neural Network Visualizer
 - ✓ Setup CONTRIBUTING.md ~10m #Feature #High-Priority @dotslashbrain 2022-09-03 2022-09-07
 - ✓ Setup FAQ.md ~10m #Feature #High-Priority @dotslashbrain 2022-09-03 2022-09-07
 - ✓ Setup REFERENCES.md ~20m #Feature #High-Priority @dotslashbrain 2022-09-03 2022-09-07
+- ✓ Setup CHANGELOG.md ~30m #Feature #High-Priority @dotslashbrain 2022-09-03 2022-09-07
 
 ### Medium-Priority
 
