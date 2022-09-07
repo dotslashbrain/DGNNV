@@ -10,8 +10,6 @@ Dynamic Graphical Neural Network Visualizer
 
 ### High-Priority
 
-- [ ] Setup CONTRIBUTING.md ~10m #Feature #High-Priority @dotslashbrain 2022-09-03
-	- https://github.com/burodepeper/language-markdown/blob/master/CONTRIBUTING.md
 - [ ] Setup FAQ.md ~10m #Feature #High-Priority @dotslashbrain 2022-09-03
 	- https://github.com/burodepeper/language-markdown/blob/master/FAQ.md#syntax-highlighting-is-broken-after-uninstall
 	- https://github.com/gulpjs/gulp/blob/master/docs/FAQ.md
@@ -66,6 +64,7 @@ Dynamic Graphical Neural Network Visualizer
 - ✓ Add complete header set to README.md ~2h #Feature #High-Priority @dotslashbrain 2022-08-30 2022-08-31
 - ✓ Setup TODO.md ~2h #Feature #High-Priority @dotslashbrain 2022-09-03 2022-09-03 2022-09-03
 - ✓ Setup AUTHORS.md ~10m #Feature #High-Priority @dotslashbrain 2022-09-03 2022-09-07
+- ✓ Setup CONTRIBUTING.md ~10m #Feature #High-Priority @dotslashbrain 2022-09-03
 
 ### Medium-Priority
 
