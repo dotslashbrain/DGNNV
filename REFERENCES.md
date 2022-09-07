@@ -9,3 +9,6 @@
 - [AUTHORS](https://github.com/standard/standard/blob/master/AUTHORS.md)
 - [CONTRIBUTING](https://github.com/burodepeper/language-markdown/blob/master/CONTRIBUTING.md)
 - [FAQ](https://github.com/gulpjs/gulp/blob/master/docs/FAQ.md)
+- [CHANGELOG](https://github.com/olivierlacan/keep-a-changelog/blob/main/CHANGELOG.md)
+- [keep a changelog](https://keepachangelog.com/en/1.0.0/)
+- [Semantic Versioning 2.0.0](https://semver.org/spec/v2.0.0.html)
