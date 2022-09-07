@@ -9,15 +9,14 @@ Dynamic Graphical Neural Network Visualizer
 - [ ] Add all links in TODO.md to REFERENCE.md
 
 ### High-Priority
-
-- [ ] Create C/C++ Neural Network code  ~8h #Feature #High-Priority @dotslashbrain 2022-09-03
+- [ ] Add install process commands to README.md
+- [ ] Add usage commands in README.md
 - [ ] Unit Test C/C++ Neural Network code ~2d #Feature #High-Priority @dotslashbrain 2022-09-03
 - [ ] Create C/C++ Neural Network API calls for the Node.js app ~4h #Feature #High-Priority @dotslashbrain 2022-09-03
 - [ ] Create GUI Design draft ~8h #Feature #High-Priority @dotslashbrain 2022-09-03
 - [ ] Implement GUI design with node.js and express ~2d #Feature #High-Priority @dotslashbrain 2022-09-03
 - [ ] Hook up the GUI with the API Calls ~8h #Feature #High-Priority @dotslashbrain 2022-09-03
 - [ ] Unit Test API Calls ~2d #Feature #High-Priority @dotslashbrain 2022-09-03
-
 
 ### Medium-Priority
 
@@ -40,6 +39,8 @@ Dynamic Graphical Neural Network Visualizer
 ## Doing
 
 ### High-Priority
+
+- [ ] Create C/C++ Neural Network code  ~8h #Feature #High-Priority @dotslashbrain 2022-09-03
 
 ### Medium-Priority
 
