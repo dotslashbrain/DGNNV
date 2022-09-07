@@ -13,6 +13,7 @@ Dynamic Graphical Neural Network Visualizer
 - [ ] Setup Basic node.js addon scaffolding for the C/C++ Neural Network API calls ~3h #Feature #High-Priority @dotslashbrain 2022-09-03
 	- https://koistya.medium.com/how-to-call-c-c-code-from-node-js-86a773033892
 	- https://www.geeksforgeeks.org/why-do-we-need-c-addons-in-node-js/
+	- https://medium.com/jspoint/a-simple-guide-to-load-c-c-code-into-node-js-javascript-applications-3fcccf54fd32
 - [ ] Create C/C++ Neural Network code  ~8h #Feature #High-Priority @dotslashbrain 2022-09-03
 - [ ] Unit Test C/C++ Neural Network code ~2d #Feature #High-Priority @dotslashbrain 2022-09-03
 - [ ] Create C/C++ Neural Network API calls for the Node.js app ~4h #Feature #High-Priority @dotslashbrain 2022-09-03
