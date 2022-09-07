@@ -24,7 +24,7 @@ A web app built with Node.js and Express for visualizing the creation, training,
 ## <a name="Usage"></a>Usage
 
 ## <a name="Documentation"></a>Documentation
-- [Lucid Charts Diagram](https://lucid.app/lucidchart/94904180-197b-44d4-b515-1992b47b8101/edit?viewport_loc=-11%2C-11%2C2216%2C1079%2C0_0&invitationId=inv_ca5baf1b-c45e-46b1-ae20-cabaf52b7149#)
+[Lucid Charts Diagram](https://lucid.app/lucidchart/94904180-197b-44d4-b515-1992b47b8101/edit?viewport_loc=-11%2C-11%2C2216%2C1079%2C0_0&invitationId=inv_ca5baf1b-c45e-46b1-ae20-cabaf52b7149#)
 
 ## <a name="Frequently-Asked-Questions"></a>Frequently Asked Questions
 [Fequently asked questions](/FAQ.md)
