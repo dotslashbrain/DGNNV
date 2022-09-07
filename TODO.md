@@ -64,8 +64,8 @@ Dynamic Graphical Neural Network Visualizer
 
 ### High-Priority
 - ✓ Add complete header set to README.md ~2h #Feature #High-Priority @dotslashbrain 2022-08-30 2022-08-31
-- ✓ Setup TODO.md ~2h #Feature #High-Priority @dotslashbrain 2022-09-03 2022-09-03
-- ✓ Setup AUTHORS.md ~10m #Feature #High-Priority @dotslashbrain 2022-09-03
+- ✓ Setup TODO.md ~2h #Feature #High-Priority @dotslashbrain 2022-09-03 2022-09-03 2022-09-03
+- ✓ Setup AUTHORS.md ~10m #Feature #High-Priority @dotslashbrain 2022-09-03 2022-09-07
 
 ### Medium-Priority
 
