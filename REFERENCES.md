@@ -6,3 +6,4 @@
 - [Kanban Board](https://en.wikipedia.org/wiki/Kanban_board)
 - [Severity & Priority in Testing – What’s the Difference?](https://www.tutorialspoint.com/severity-and-priority-in-testing-what-s-the-difference#:~:text=Priority%20refers%20to%20the%20order,critical%2C%20moderate%2C%20and%20severe.)
 - [keep a changelog](https://keepachangelog.com/en/1.0.0/)
+- [AUTHORS](- https://github.com/standard/standard/blob/master/AUTHORS.md)
