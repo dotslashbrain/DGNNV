@@ -13,4 +13,4 @@
 - [keep a changelog](https://keepachangelog.com/en/1.0.0/)
 - [Semantic Versioning 2.0.0](https://semver.org/spec/v2.0.0.html)
 - [EJS vs Pug: What are the differences?](https://stackshare.io/stackups/ejs-vs-pug)
-- [Node.js native addons: where is node_api.h located?]()https://stackoverflow.com/questions/61730307/node-js-native-addons-where-is-node-api-h-located)
+- [Node.js native addons: where is node_api.h located?](https://stackoverflow.com/questions/61730307/node-js-native-addons-where-is-node-api-h-located)
