@@ -33,7 +33,7 @@ A web app built with Node.js and Express for visualizing the creation, training,
 To help contribute to this project please see the [Contirbutions](/CONTRIBUTIONS.md) file.
 
 ## <a name="License"></a>License
-[MIT LICENSE](/LICENSE)
+The software is available under the [MIT License](/LICENSE)
 
 ## <a name="References"></a>References
 [References](/REFERENCES.md)
