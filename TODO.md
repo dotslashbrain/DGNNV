@@ -10,8 +10,6 @@ Dynamic Graphical Neural Network Visualizer
 
 ### High-Priority
 
-- [ ] Setup RULES.md ~10m #Feature #High-Priority @dotslashbrain 2022-09-03
-	- https://github.com/standard/standard/blob/master/RULES.md
 - [ ] Setup AUTHORS.md ~10m #Feature #High-Priority @dotslashbrain 2022-09-03
 	- https://github.com/standard/standard/blob/master/AUTHORS.md
 - [ ] Setup CONTRIBUTING.md ~10m #Feature #High-Priority @dotslashbrain 2022-09-03
